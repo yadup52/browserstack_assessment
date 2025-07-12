@@ -73,7 +73,7 @@ def scrape_articles(driver):
 
     return data
 
-if __name__ == "__main__":
+def test_scraper():
     driver = setup_driver()
     try:
         articles = scrape_articles(driver)
