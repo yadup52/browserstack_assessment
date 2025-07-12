@@ -1,0 +1,47 @@
+[
+    {
+        "duration": 1230.264892578125,
+        "name": "sdk:automate:hub-management",
+        "startTime": 1752354304513.9705,
+        "worker": 20988,
+        "status": true,
+        "failure": null,
+        "details": null,
+        "entryType": "measure",
+        "platform": 0,
+        "command": null,
+        "testName": null,
+        "hookType": null,
+        "cli": false
+    },
+    {
+        "duration": 660.057861328125,
+        "name": "sdk:automate:print-buildlink",
+        "startTime": 1752354306000.5952,
+        "worker": 20988,
+        "status": true,
+        "failure": null,
+        "details": null,
+        "entryType": "measure",
+        "platform": 0,
+        "command": null,
+        "testName": null,
+        "hookType": null,
+        "cli": false
+    },
+    {
+        "duration": 671.010009765625,
+        "name": "sdk:cleanup",
+        "startTime": 1752354305999.8352,
+        "worker": 20988,
+        "status": true,
+        "failure": null,
+        "details": null,
+        "entryType": "measure",
+        "platform": 0,
+        "command": null,
+        "testName": null,
+        "hookType": null,
+        "cli": false
+    }
+]
